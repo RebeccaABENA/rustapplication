@@ -21,6 +21,10 @@ Affichage
 println! avec {} pour afficher une variable
 {:?} ou #[derive(Debug)] pour afficher une struct
 
+
+
+//// TP7 nom client et main ///// ainsi que les captures d'ecrans des resultats :
+ce que j'ai fait : implementer un client et un serveur dns basique, uilisation de udp et resolution des noms en IP
 Utilisation du snake_case pour nommer les variables
 Ne pas commencer une variable par un chiffre
 
